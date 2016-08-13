@@ -1,0 +1,6 @@
+D:\teléchargement\08-08-16\APPCOSNOLE\bin\Debug\APPCOSNOLE.exe.config
+D:\teléchargement\08-08-16\APPCOSNOLE\bin\Debug\APPCOSNOLE.exe
+D:\teléchargement\08-08-16\APPCOSNOLE\bin\Debug\APPCOSNOLE.pdb
+D:\teléchargement\08-08-16\APPCOSNOLE\obj\Debug\APPCOSNOLE.csprojResolveAssemblyReference.cache
+D:\teléchargement\08-08-16\APPCOSNOLE\obj\Debug\APPCOSNOLE.exe
+D:\teléchargement\08-08-16\APPCOSNOLE\obj\Debug\APPCOSNOLE.pdb
